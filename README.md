@@ -14,10 +14,25 @@ In this assignment you will create a streaming data pipe by performing these ste
 * Install the Kafka python driver.
 * Install the MySQL python driver.
 * Create a topic named toll in kafka.
-* Download streaming data generator program.
-* Customize the generator program to steam to toll topic.
-* Download and customise streaming data consumer.
-* Customize the consumer program to write into a MySQL database table.
+* Customize a streaming data generator program to steam to toll topic.
+* Customize a consumer program to write into a MySQL database table.
 * Verify that streamed data is being collected in the database table.
 
 __PS__ : Each row is a record of when a vehicle has passed through a certain toll plaza along with its type and anonymized id.
+
+## Results
+
+Streaming data generator :
+
+![simulator_output](https://user-images.githubusercontent.com/44294643/144728265-35f0a0ed-6b27-4397-a993-8cd4d88634fd.PNG)
+
+
+Consumer Progrem :
+
+![streaming_reader_code](https://user-images.githubusercontent.com/44294643/144728288-1d9f4bee-4086-4848-bc44-ee2caba72f55.PNG)
+
+
+Loading Step :
+
+![output_rows](https://user-images.githubusercontent.com/44294643/144728298-0ff0f474-1edf-46a4-bd8c-ee7b64313bee.PNG)
+
