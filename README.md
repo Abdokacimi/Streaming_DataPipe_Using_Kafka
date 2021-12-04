@@ -20,4 +20,4 @@ In this assignment you will create a streaming data pipe by performing these ste
 * Customize the consumer program to write into a MySQL database table.
 * Verify that streamed data is being collected in the database table.
 
-__PS: Each row is a record of when a vehicle has passed through a certain toll plaza along with its type and anonymized id.
+__PS__: Each row is a record of when a vehicle has passed through a certain toll plaza along with its type and anonymized id.
