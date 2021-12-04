@@ -27,7 +27,7 @@ Streaming data generator :
 ![simulator_output](https://user-images.githubusercontent.com/44294643/144728265-35f0a0ed-6b27-4397-a993-8cd4d88634fd.PNG)
 
 
-Consumer Progrem :
+Consumer Program :
 
 ![streaming_reader_code](https://user-images.githubusercontent.com/44294643/144728288-1d9f4bee-4086-4848-bc44-ee2caba72f55.PNG)
 
